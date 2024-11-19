@@ -32,15 +32,11 @@ Performance Analysis:
 Calculating accuracy and confusion matrix.
 Visualizing the confusion matrix with Seaborn heatmaps.
 Results
-Test Accuracy: 92.94%
-## Confusion Matrix: Highlights minimal misclassifications, demonstrating strong performance across all digit classes.
-Neural Network Architecture
-Layer Type	Neurons	Activation Function
-Dense (Hidden 1)	128	ReLU
-Dense (Hidden 2)	64	ReLU
-Dense (Hidden 3)	128	ReLU
+## Test Accuracy: 92.94%
+## Confusion Matrix: 
+Highlights minimal misclassifications, demonstrating strong performance across all digit classes.
 ## Conclusion
 This project highlights the capability of deep learning to perform image classification with high accuracy. While the simple dense architecture performs well, further exploration using Convolutional Neural Networks (CNNs) or data augmentation can potentially enhance the results.
 
 
-Dense (Output)	10	Softmax
+
